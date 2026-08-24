@@ -22,34 +22,40 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
+### Developed by: Priyaadarshini K
+### Register num: 212223240126
+
+##   WHOIS:
+![image](https://github.com/user-attachments/assets/96167939-8324-406d-962d-7ff733182106)
+
+## IP2LOCATION:
+![image](https://github.com/user-attachments/assets/d30a79be-70b4-404f-a9b9-f3e2fb110fcb)
+![image](https://github.com/user-attachments/assets/b9c3d274-c147-47ec-951c-9e61fe060ade)
+
+## WEB ARCHIVE:
+![image](https://github.com/user-attachments/assets/6f60f192-9082-483e-bbd1-73941d66796a)
+
+## NMAP:
+![image](https://github.com/user-attachments/assets/796316bf-a638-468e-b9b9-bfe6e69c7060)
+
+## WHATWEB:
+![image](https://github.com/user-attachments/assets/7cde553e-3267-452b-8007-01f5b4ae2ad9)
+
+## HTTPRINT:
+![image](https://github.com/user-attachments/assets/0ecdf8e8-4836-41f3-aec0-5e4632107760)
+
+## TRACEROUTE:
+![image](https://github.com/user-attachments/assets/6169d36c-1e8d-4191-93cd-ce02374167a5)
+![image](https://github.com/user-attachments/assets/09f097f7-eded-48c5-807d-efc90241f435)
+![image](https://github.com/user-attachments/assets/97a20b8d-57d5-4ea8-b4a7-820ab5c2c8c8)
 
 
 
- ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/91b8927b-6a0e-4043-8780-0365e218ab50" />
 
-ip2location.com 
-<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/7619449e-7650-462b-be4f-f76c4f05f19f" />
 
-ping
-<img width="681" height="705" alt="Screenshot 2026-04-29 133128" src="https://github.com/user-attachments/assets/2d2b161c-cf91-4dc1-8be0-c1610cacdb2a" />
 
-whois
- <img width="651" height="645" alt="whois" src="https://github.com/user-attachments/assets/b9e16bef-4f79-4ea0-8d89-e4b3a5a8f402" />
-<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/a6f4aab8-11a7-41d6-b428-4b0705da2f45" />
 
-  traceroute t
-<img width="655" height="656" alt="trace" src="https://github.com/user-attachments/assets/e733e96a-41f6-4248-9c3c-4b303247a8d5" />
 
-  nmap
-<img width="645" height="236" alt="nmap" src="https://github.com/user-attachments/assets/c54816ec-8015-40f0-8156-bbcc9203b8f6" />
-
- whatweb
-
- sudo traceroute -T www.google.com
-6
-[Alt text](<traceroute u.png>)
 
 
 ## RESULT:
