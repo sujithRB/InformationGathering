@@ -71,5 +71,6 @@ This image shows the output of the WhatWeb tool, which identifies the various te
 
 ### TCP Traceroute:
 
-<img width="1600" height="869" alt="WhatsApp Image 2026-08-06 at 9 25 13 AM" src="https://github.com/user-attachments/assets/4237255a-eb05-43ee-8262-7a7a37880848" />
+C:\Users\admin\Pictures\Screenshots\Screenshot 2026-08-24 103245.png
+
 The information gathering techniques tools/procedure were identified successfully
