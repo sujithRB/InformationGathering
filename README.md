@@ -20,43 +20,56 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
+## Pen Test Tools Categories:  
+
+Following Categories of pen test tools are identified for information gathering:
+
+Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
+http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ## OUTPUT:
-### Developed by: Priyaadarshini K
-### Register num: 212223240126
+### whois:
+<img width="1920" height="1140" alt="Screenshot 2026-08-06 200229" src="https://github.com/user-attachments/assets/025a7e75-0a84-4c2d-af61-bd32234f82aa" />
 
-##   WHOIS:
-![image](https://github.com/user-attachments/assets/96167939-8324-406d-962d-7ff733182106)
 
-## IP2LOCATION:
-![image](https://github.com/user-attachments/assets/d30a79be-70b4-404f-a9b9-f3e2fb110fcb)
-![image](https://github.com/user-attachments/assets/b9c3d274-c147-47ec-951c-9e61fe060ade)
+This image shows the domain details of education gouv.fr from WHOIS. It includes registration date, expiry date, and name servers. The domain is registered and verified under a France registrar.
 
-## WEB ARCHIVE:
-![image](https://github.com/user-attachments/assets/6f60f192-9082-483e-bbd1-73941d66796a)
+### Ip2location:
+<img width="1920" height="1200" alt="Screenshot 2026-08-06 085937" src="https://github.com/user-attachments/assets/113d3324-3cb3-4242-9e82-58f3987be29c" />
 
-## NMAP:
-![image](https://github.com/user-attachments/assets/796316bf-a638-468e-b9b9-bfe6e69c7060)
-
-## WHATWEB:
-![image](https://github.com/user-attachments/assets/7cde553e-3267-452b-8007-01f5b4ae2ad9)
-
-## HTTPRINT:
-![image](https://github.com/user-attachments/assets/0ecdf8e8-4836-41f3-aec0-5e4632107760)
-
-## TRACEROUTE:
-![image](https://github.com/user-attachments/assets/6169d36c-1e8d-4191-93cd-ce02374167a5)
-![image](https://github.com/user-attachments/assets/09f097f7-eded-48c5-807d-efc90241f435)
-![image](https://github.com/user-attachments/assets/97a20b8d-57d5-4ea8-b4a7-820ab5c2c8c8)
+This image shows the geolocation details of the IP address. The server is located in France, specifically in Paris. It also indicates the use of a data center and DDoS protection service.
 
 
 
+### web.archive.org :
+<img width="1920" height="1140" alt="Screenshot 2026-08-06 200802" src="https://github.com/user-attachments/assets/ffce9465-0bab-4a0f-83d3-e61813a88e49" />
+
+This shows archived records of the website from the Wayback Machine. It displays how many times the site was saved and the types of files captured. Most of the content is in HTML format, indicating regular web pages.
+
+## Webserver Finger Printing:
+### Ping :
+<img width="1600" height="869" alt="WhatsApp Image 2026-08-06 at 9 25 11 AM" src="https://github.com/user-attachments/assets/bbaac635-bf1c-4a59-b43a-b7450148cf66" />
+
+
+This shows the ping results to the domain from a Kali Linux terminal. It confirms that the server is active and responding to requests. The response times vary, showing network latency between systems.
 
 
 
+### Nmap :
+<img width="1600" height="869" alt="WhatsApp Image 2026-08-06 at 9 25 11 AM (1)" src="https://github.com/user-attachments/assets/17c86891-f7f1-4562-a1fb-b391867aaa43" />
 
 
+This is an Nmap network scan performed on the domain education gouv.fr using a Kali Linux terminal. The output lists several open ports, including 21 (FTP), 22 (SSH), and standard web ports like 80 and 443, indicating the services currently reachable on that server.
+
+### Whatweb :
+<img width="1600" height="869" alt="WhatsApp Image 2026-08-06 at 9 25 12 AM" src="https://github.com/user-attachments/assets/5038d0c9-192e-4031-8e13-a13ec212886f" />
 
 
-## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
+This image shows the output of the WhatWeb tool, which identifies the various technologies powering the website education gouv.fr. It reveals that the site uses the Bitrix Site Manager CMS, runs on an nginx web server, and includes components like jQuery and Google Tag Manager.
+
+## Tracing the Location
+
+### TCP Traceroute:
+
+<img width="1600" height="869" alt="WhatsApp Image 2026-08-06 at 9 25 13 AM" src="https://github.com/user-attachments/assets/4237255a-eb05-43ee-8262-7a7a37880848" />
+The information gathering techniques tools/procedure were identified successfully
