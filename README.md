@@ -28,11 +28,6 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ## OUTPUT:
-### whois:
-<img width="1920" height="1140" alt="Screenshot 2026-08-06 200229" src="https://github.com/user-attachments/assets/025a7e75-0a84-4c2d-af61-bd32234f82aa" />
-
-
-This image shows the domain details of education gouv.fr from WHOIS. It includes registration date, expiry date, and name servers. The domain is registered and verified under a France registrar.
 
 ### Ip2location:
 <img width="1920" height="1200" alt="Screenshot 2026-08-06 085937" src="https://github.com/user-attachments/assets/113d3324-3cb3-4242-9e82-58f3987be29c" />
